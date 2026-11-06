@@ -1,6 +1,6 @@
 # SSH Brute-Force Detector
 
-A Python command-line tool that detects SSH brute-force attacks by analyzing failed-login timing patterns in syslog data — not just raw failure counts.
+A Python command-line tool that detects SSH brute-force attacks by analyzing failed-login timing patterns in syslog data not just raw failure counts.
 
 ## Why timing matters
 
